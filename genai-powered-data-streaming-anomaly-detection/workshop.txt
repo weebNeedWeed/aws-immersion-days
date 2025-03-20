@@ -1,0 +1,2 @@
+https://catalog.workshops.aws/spot-anomalies-flink-lab/en-US
+https://github.com/aws-samples/spot-anomalies-flink-workshop-resources/tree/main
